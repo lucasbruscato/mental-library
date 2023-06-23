@@ -1,0 +1,1 @@
+It works as an alternative to [[AWS Command Line Interface (CLI)]], but instead of running it locally, the user can prompt internally in the [[AWS Management Console]] and open an online command line in the platform to programmatically make changes, settings, any sort of execution.

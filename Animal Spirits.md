@@ -1,0 +1,3 @@
+It's a concept first elaborated by [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes), it's states the idea that market volatility (investment prices rise and fall) is heavily influenced by people's emotion instead of intrinsic values.
+
+Many economists argue against this concept since they believe the markets are efficient and the irrationality and emotions played by individuals end up being little to none impact in the long run over the financial market.

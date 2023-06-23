@@ -1,0 +1,1 @@
+The way core stocks are defined is by the definition of value/growth stocks, where core stocks are the remaining, i.e., the 30 percent of stocks with highest BtM are value stocks, the 30 percent with lowest BtM are growth stocks, then the remaining 40 percent in the middle are the core stocks.

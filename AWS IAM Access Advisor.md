@@ -1,0 +1,1 @@
+This tool shows the service permissions granted to a user and when those services were last accessed, it's at **user-level**. This can be used to review the policies in place.

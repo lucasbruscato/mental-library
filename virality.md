@@ -1,0 +1,1 @@
+The tendency of an image, article, news, text, meme, video, book, etc., to go viral and spread rapidly in the web.

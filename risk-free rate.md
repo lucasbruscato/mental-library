@@ -1,0 +1,1 @@
+The risk-free rate of return is the **theoretical** rate of return of an investment with zero risk. Typically it's used the value of the Treasury bill rate, a short-term debt obligation backed by the Treasury department with a maturity of one year or less.

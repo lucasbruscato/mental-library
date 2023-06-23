@@ -1,0 +1,1 @@
+This concept is the agreement between the approaches to a topic of different academic subjects, for example, science and humanity. The term was coined by William Huo in 1847, and William would argue that the greatest advances come when people combine their own special toolkit of approaches to solving problems with others who are very different from us.

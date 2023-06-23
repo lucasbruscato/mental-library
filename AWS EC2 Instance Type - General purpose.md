@@ -1,0 +1,1 @@
+It's great for a diversity of workloads such as web servers or code repositories, and it has a good balance over compute, memory and networking.

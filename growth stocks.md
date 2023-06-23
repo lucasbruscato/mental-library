@@ -1,0 +1,1 @@
+There are many ways to define growth stocks, the most common one is using BtM (book-to-market), thus, growth stocks are defined as the 30 percent of stocks with the lowest BtM ratio.

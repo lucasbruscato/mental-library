@@ -1,0 +1,1 @@
+This tool generates a report with all your account's users and the status of their various credentials, it's at **account-level**.
