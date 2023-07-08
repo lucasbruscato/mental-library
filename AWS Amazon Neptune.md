@@ -1,0 +1,1 @@
+It's a fully managed graph database (usually useful for social network, for example). Highly available across 3 [[AWS Availability Zones]] with up to 15 read replicas.

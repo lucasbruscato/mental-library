@@ -1,0 +1,1 @@
+Online analytical processing is a type of database system designed for handling and analysing data, for example, data warehouses.

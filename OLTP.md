@@ -1,0 +1,1 @@
+Online transaction processing is a type of database system designed for transaction-based operations, for example, operational systems (SOs).

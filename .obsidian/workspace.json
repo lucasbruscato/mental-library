@@ -1,35 +1,52 @@
 {
   "main": {
-    "id": "6648cbdc12db2cb8",
+    "id": "35223fea7b8491ec",
     "type": "split",
     "children": [
       {
-        "id": "fac206d882e7d96a",
+        "id": "7278dbbcf2f0e900",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab547f8fab01ed9",
+            "id": "a585bdc8e88b13e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e79d2b62971c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Batch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "473e593fded8cfdb",
+    "id": "e8ddff6f20cb21d4",
     "type": "split",
     "children": [
       {
-        "id": "09e537380b40c815",
+        "id": "08cbd21b692ef463",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9ee241d2ddec64",
+            "id": "a892a5f033a47f54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +56,7 @@
             }
           },
           {
-            "id": "95a58aa12adcaf72",
+            "id": "7c49607bcb86347e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +71,7 @@
             }
           },
           {
-            "id": "34ae60621a5f85a9",
+            "id": "46400b590bb46d0b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +82,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "9e9a3baef720a325",
+    "id": "ed6c8a4d9b93ab36",
     "type": "split",
     "children": [
       {
-        "id": "1962854917ee9086",
+        "id": "2cc31ad31a0083a6",
         "type": "tabs",
         "children": [
           {
-            "id": "913bc019d2c5f243",
+            "id": "0af6fd3d63d1baf7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS Batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +111,19 @@
             }
           },
           {
-            "id": "ee1224d7b7286849",
+            "id": "f6da76ecd24859e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS Batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "deece1c52c772f0b",
+            "id": "c3dac85d070d5b7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +134,13 @@
             }
           },
           {
-            "id": "03e93e70e72976d3",
+            "id": "703725a1dbaf0d40",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS Batch.md"
+              }
             }
           }
         ]
@@ -138,6 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ab547f8fab01ed9",
-  "lastOpenFiles": []
+  "active": "05e79d2b62971c05",
+  "lastOpenFiles": [
+    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+    "AWS Batch.md",
+    "AWS Amazon API Gateway.md",
+    "AWS Amazon Athena.md",
+    "AWS.md",
+    "Animal Spirits.md",
+    "AK-47.md"
+  ]
 }

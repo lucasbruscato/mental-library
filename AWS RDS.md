@@ -16,5 +16,6 @@ The advantage of using RDS instead of deploying a DB on EC2 is that RDS is a man
 - Multi [[AWS Availability Zones]] for disaster recovery
 - Scaling capability (both vertically and horizontally)
 - Storage backed by [[AWS EBS Volume]]
+- Possibility to deploy with RR ([[AWS RDS Read Replicas]])
 
 Can't perform an SSH into the instance tho.

@@ -3,14 +3,14 @@
 This is a certificate provided by [[AWS]] which covers over 40 AWS tools.
 
 The topics covered in the course from Stephane Maarek ([link](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) to the course) were:
-
+	
 1. [[AWS IAM - Identity and Access Management]]
 2. [[AWS EC2 - Elastic Compute Cloud]]
 3. [[AWS EC2 - Instance Storage]]
 4. [[AWS ELB & ASG]]
 5. [[AWS S3]] / [[AWS Snow Family]] / [[AWS Storage Gateway]]
 6. [[AWS Databases and Analytics]]
-7. Other Compute Services: [[AWS ECS]], [[AWS Lambda]], [[AWS Batch]], [[AWS Lightsail]]
+7. Other Compute Services: [[AWS ECS]], [[AWS Fargate]], [[AWS Lambda]], [[AWS Amazon API Gateway]], [[AWS Batch]], [[AWS Lightsail]]
 8. [[AWS Deployments and Managing Infrastructure at scale]]
 9. [[AWS Leveraging Global Infrastructure]]
 10. [[AWS Cloud Integrations]]

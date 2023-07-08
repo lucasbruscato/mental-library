@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "0137896f07cb650f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e1aa376f65bc85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d5cecebce0981e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6796d5c8a0fe90c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4566e5923f844608",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4d824e05126bc0af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "110a5a83a611c083",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3b2655f61d558bf1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "828d15df71e3122e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5731c1b5d320ccc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "13b6fc1ab192237d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f217aff784e2f320",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45d5cecebce0981e",
+  "lastOpenFiles": [
+    "AWS Amazon API Gateway.md",
+    "AWS Batch.md",
+    "Lifespan by David Sinclair.md",
+    "AWS Snow Family.md",
+    "AWS Lambda.md",
+    "AWS IAM Credentials Report.md",
+    "AWS OpsHub.md",
+    "AWS RDS.md",
+    "AWS IAM Policies.md",
+    "growth stocks.md",
+    "factor investing.md",
+    "img/AWS Lambda triggering via CloudWatch.png",
+    "img/AWS EBS Snapshot.png",
+    "AWS Glue.md",
+    "AWS DMS.md",
+    "AWS Elastic Load Balancer.md",
+    "AWS Security Groups - inbound and outbound traffic.png.md",
+    "Ethereum.md",
+    "img",
+    "teste icloud.md"
+  ]
+}
