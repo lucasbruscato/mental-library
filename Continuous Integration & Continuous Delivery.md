@@ -1,0 +1,1 @@
+It's a methodology that is becoming more and more known and used in software development and data engineering, it relies on 

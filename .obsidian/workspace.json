@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "05e79d2b62971c05",
+            "id": "cfe9b2685ea09cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Batch.md",
+                "file": "AWS Deployments and Managing Infrastructure at scale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6720f3294cc4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS CodePipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6a7e6b7f92a49e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Lightsail.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 538.5
   },
   "right": {
     "id": "ed6c8a4d9b93ab36",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Batch.md",
+                "file": "AWS Lightsail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Batch.md",
+                "file": "AWS Lightsail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Batch.md"
+                "file": "AWS Lightsail.md"
               }
             }
           }
@@ -160,14 +183,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05e79d2b62971c05",
+  "active": "f6a7e6b7f92a49e2",
   "lastOpenFiles": [
+    "AWS Lightsail 2.md",
+    "AWS Lightsail.md",
     "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+    "AWS CodePipeline.md",
+    "Continuous Integration & Continuous Delivery.md",
+    "AWS CodeStar.md",
+    "img/AWS CodePipeline orchestration layer.png",
+    "AWS Deployments and Managing Infrastructure at scale.md",
+    "AWS CodeBuild.md",
+    "AWS CodeArtifact.md",
+    "AWS CodeCommit.md",
+    "AWS CodeDeploy.md",
+    "AWS Elastic Beanstalk.md",
+    "AWS CloudWatch.md",
+    "AWS Fargate.md",
+    "AWS CloudFormation.md",
+    "AWS CDK.md",
+    "AWS ECS.md",
+    "AWS ECR.md",
+    "img/AWS CloudFormation diagram.png",
+    "infrastructure as code.md",
+    "AWS EC2 Instances Purchasing Options.md",
     "AWS Batch.md",
+    "AWS Elastic Load Balancer.md",
+    "AWS EC2 - Elastic Compute Cloud.md",
     "AWS Amazon API Gateway.md",
     "AWS Amazon Athena.md",
-    "AWS.md",
-    "Animal Spirits.md",
-    "AK-47.md"
+    "AWS.md"
   ]
 }

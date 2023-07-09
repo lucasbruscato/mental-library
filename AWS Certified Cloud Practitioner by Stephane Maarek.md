@@ -3,7 +3,7 @@
 This is a certificate provided by [[AWS]] which covers over 40 AWS tools.
 
 The topics covered in the course from Stephane Maarek ([link](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) to the course) were:
-	
+
 1. [[AWS IAM - Identity and Access Management]]
 2. [[AWS EC2 - Elastic Compute Cloud]]
 3. [[AWS EC2 - Instance Storage]]

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e1aa376f65bc85",
+        "id": "b14d70f15a207256",
         "type": "tabs",
         "children": [
           {
-            "id": "45d5cecebce0981e",
+            "id": "5f1afada03c0a7e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md"
+          }
         }
       }
     ],
@@ -123,10 +131,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45d5cecebce0981e",
+  "active": "5f1afada03c0a7e5",
   "lastOpenFiles": [
-    "AWS Amazon API Gateway.md",
     "AWS Batch.md",
+    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+    "AWS Lightsail.md",
+    "AWS CloudFormation.md",
+    "AWS Deployments and Managing Infrastructure at scale.md",
+    "AWS Elastic Beanstalk.md",
+    "AWS CodeCommit.md",
+    "img/AWS CloudFormation diagram.png",
+    "img/AWS CodePipeline orchestration layer.png",
+    "infrastructure as code.md",
+    "AWS CDK.md",
+    "AWS CodeStar.md",
+    "AWS CodeDeploy.md",
+    "AWS CodePipeline.md",
+    "AWS CodeArtifact.md",
+    "Continuous Integration & Continuous Delivery.md",
+    "AWS CodeBuild.md",
+    "AWS Lightsail 2.md",
+    "AWS ECS.md",
+    "AWS Amazon API Gateway.md",
     "Lifespan by David Sinclair.md",
     "AWS Snow Family.md",
     "AWS Lambda.md",
@@ -135,15 +161,8 @@
     "AWS RDS.md",
     "AWS IAM Policies.md",
     "growth stocks.md",
-    "factor investing.md",
     "img/AWS Lambda triggering via CloudWatch.png",
     "img/AWS EBS Snapshot.png",
-    "AWS Glue.md",
-    "AWS DMS.md",
-    "AWS Elastic Load Balancer.md",
-    "AWS Security Groups - inbound and outbound traffic.png.md",
-    "Ethereum.md",
-    "img",
-    "teste icloud.md"
+    "img"
   ]
 }

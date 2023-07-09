@@ -1,0 +1,1 @@
+It's a tool from AWS for version control that uses Git technology. It can be seen as the competitor for the public offering [[GitHub]].
