@@ -5,7 +5,7 @@ The topics and tools covered were:
 1. [[AWS CloudFormation]]
 2. [[AWS CDK]]
 3. [[AWS Elastic Beanstalk]]
-4. A group of tools interconnected:
+4. A group of tools that are interconnected:
 	1. [[AWS CodeDeploy]]
 	2. [[AWS CodeCommit]]
 	3. [[AWS CodeBuild]]

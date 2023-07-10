@@ -1,0 +1,1 @@
+It's a natural compound found in small amounts in foods (fruits, vegetables and dairy products), it's a precursor of NAD+.

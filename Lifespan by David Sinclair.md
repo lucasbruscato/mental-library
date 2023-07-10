@@ -12,4 +12,13 @@ In the book the author treats aging as a disease, he elaborates mainly in two pe
 	2. he also mentions some studies that showed that people would live longer if they have to face big changes in temperature for a certain amount of time, for example, hypothermia is definitely not good for your health, but having goosebumps might benefit your body in building brown fat. There is a mention to a study stating increase in lifespan for people in Finland that would go to a sauna every day for one hour.
 	3. the author suggests that intermittent fasting could also make your body restrain itself and prolong life.
 
-In the end of the book the author also elaborates on the 
+In the end of the book the author also elaborates on what he is currently taking, which is:
+
+1. [[Nicotinamide mononucleotide (NMN)]]: 1g per day, in the morning
+2. [[Resveratrol]]: 1g per day, in the morning
+3. [[Metformin]]: 1g, doesn't specify when
+4. [[Vitamin D3]]: doesn't specify, just says daily dose
+5. [[Vitamin K2]]: doesn't specify, just says daily dose
+6. Low-dose aspirin: 83 mg per day
+7. Reduce sugar to a minimum
+8. Try to skip one meal a day or make it really small

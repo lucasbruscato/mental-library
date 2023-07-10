@@ -1,1 +1,3 @@
-It's a methodology that is becoming more and more known and used in software development and data engineering, it relies on 
+Aka CICD, it is a methodology that is becoming more and more used in software engineering, the CD part of the acronym it's also known as continuous deployment.
+
+The service compile the incremental code changes made by developers, then link and package them into software deliverables. Then, automated tests verify the software functionality and automated deployment services deliver them to end users.

@@ -1,0 +1,1 @@
+It is a medication usually prescribed for type 2 diabetes. It works reducing the glucose production in the liver, decreasing intestinal absorption of glucose and improving insulin sensitivity in the body's tissues.
