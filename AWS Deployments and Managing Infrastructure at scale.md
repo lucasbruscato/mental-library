@@ -12,3 +12,6 @@ The topics and tools covered were:
 	4. [[AWS CodePipeline]]
 	5. [[AWS CodeArtifact]]
 	6. [[AWS CodeStar]]
+5. [[AWS Cloud9]]
+6. [[AWS Systems Manager (SSM)]]
+7. [[AWS OpsWorks]]

@@ -1,6 +1,6 @@
 It's a tool for writing [[infrastructure as code]].
 
-For example, you create a stack template (with a yaml file) in CloudFormation stating:
+For example, you create a **stack template** (with a yaml file) in CloudFormation stating:
 1. the creation of a [[AWS Security Groups]]
 2. the creation of two [[AWS EC2 - Elastic Compute Cloud]] using the security group created in 1.
 3. the creation of an [[AWS S3]] bucket

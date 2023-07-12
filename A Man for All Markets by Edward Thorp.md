@@ -9,7 +9,7 @@ The book can be split by:
 	2. His family conflicts: parents divorce; uncontrolled mother.
 	3. Financing his college years: had to go to UCLA instead of Berkeley since they offered a better scholarship.
 2. Casino
-	1. He created in 1961 a theory for winning the blackjack (21) game, he was the precursor of card counting (add more about the theory #todo).
-	2. Together with Claude Shannon he also created one of the first portable computers (located in his shoe which would be activated by his big toe) to calculate the speed of a ball in roulette, and subsequently predicting which group of pockets the ball would land (mentioned it would follow a normal distribution).
+	1. He created in 1961 a theory for winning the blackjack (21) game which he developed making several simulations with an old IBM computer. He was the precursor of card counting (add more about the theory #todo).
+	2. Together with Claude Shannon he also created one of the first portable computers (located in his shoe which would be activated by his big toe) to calculate the speed of a ball in roulette - based on the time it would take to make a round between two point in the roulette -, and subsequently predicting which group of pockets the ball would land, he also mentioned the "landing" would form a normal distribution.
 	3. 
 3. Stock market

@@ -20,43 +20,18 @@
             }
           },
           {
-            "id": "6ce8a639b2c239da",
+            "id": "d61f8065accddb94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Deployments and Managing Infrastructure at scale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b18f8edca1a186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lifespan by David Sinclair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cd71e4b85f1a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Man for All Markets by Edward Thorp.md",
+                "file": "AWS Leveraging Global Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Man for All Markets by Edward Thorp.md",
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Man for All Markets by Edward Thorp.md",
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Man for All Markets by Edward Thorp.md"
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md"
               }
             }
           }
@@ -185,35 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40cd71e4b85f1a7d",
+  "active": "a585bdc8e88b13e6",
   "lastOpenFiles": [
-    "Lifespan by David Sinclair.md",
+    "AWS Leveraging Global Infrastructure.md",
+    "Global Application.md",
+    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
     "AWS Deployments and Managing Infrastructure at scale.md",
+    "AWS Elastic Beanstalk.md",
+    "AWS CloudFormation.md",
+    "AWS OpsWorks.md",
+    "Narrative Economics - Tax schema went viral.png",
+    "Narrative Economics by Robert Shiller.md",
+    "AWS AMI - the AMI process.png",
+    "AWS OpsWorks architecture.png",
+    "AWS Systems Manager (SSM).md",
+    "AWS Cloud9.md",
+    "AWS Lambda.md",
+    "AWS Fargate.md",
+    "AWS CodeStar.md",
+    "Lifespan by David Sinclair.md",
     "A Man for All Markets by Edward Thorp.md",
     "Vitamin D3.md",
     "Vitamin K2.md",
     "Metformin.md",
     "Nicotinamide mononucleotide (NMN).md",
     "Resveratrol.md",
-    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
     "AWS ECS.md",
-    "AWS CloudFormation.md",
     "Continuous Integration & Continuous Delivery.md",
     "The Craft of Writing Effectively by Larry McEnerney.md",
     "AWS S3 Storage Classes.md",
     "AWS CodePipeline.md",
-    "AWS CodeStar.md",
     "AWS Lightsail.md",
-    "AWS Lightsail 2.md",
-    "img/AWS CodePipeline orchestration layer.png",
-    "AWS CodeBuild.md",
-    "AWS CodeArtifact.md",
-    "AWS CodeCommit.md",
-    "AWS CodeDeploy.md",
-    "AWS Elastic Beanstalk.md",
-    "AWS CloudWatch.md",
-    "AWS Fargate.md",
-    "AWS CDK.md",
-    "img/AWS CloudFormation diagram.png"
+    "AWS CodePipeline orchestration layer.png",
+    "AWS CloudFormation diagram.png"
   ]
 }

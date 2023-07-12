@@ -34,7 +34,7 @@ His theory is that if there is a constant reminder of any specific thing, it can
 #### Proposition 7 - Narratives thrives on attachment: human interest, identity and patriotism
 He explains that attachment has all to do with repetition and constellation, e.g.: there was a famous study that showed that if you charged 90% (a) or 10% (b) on people's income a government would obtain the same tax, as people on (a) would evade tax and (b) would pay, therefore, better to stick to (a). The draft (screenshot below) made for that went viral as taxation is a hot topic among people.
 
-![[Narrative Economics - Yale University (Coursera) - Tax schema went viral.png]]
+![[Narrative Economics - Tax schema went viral.png]]
 
 ### Week 3 - Elaborates on nine perennial economic narratives
 
