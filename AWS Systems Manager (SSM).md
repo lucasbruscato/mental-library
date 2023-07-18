@@ -1,4 +1,4 @@
-It supports the management of [[AWS EC2 - Elastic Compute Cloud]] and on-premises systems at scale (therefore, it's a hybrid service).
+It supports the management of [[AWS EC2]] and on-premises systems at scale (therefore, it's a hybrid service).
 
 The most important features are:
 1. patching automation for enhanced compliance

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+                "file": "Lifespan by David Sinclair.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Call",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+            "file": "Lifespan by David Sinclair.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+            "file": "Lifespan by David Sinclair.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md"
+            "file": "Lifespan by David Sinclair.md"
           }
         }
       }
@@ -133,36 +133,42 @@
   },
   "active": "5f1afada03c0a7e5",
   "lastOpenFiles": [
-    "AWS Deployments and Managing Infrastructure at scale.md",
+    "Metformin.md",
+    "Lifespan by David Sinclair.md",
+    "Resveratrol.md",
+    "call and put options.md",
+    "Amazon MQ.md",
+    "AWS Kinesis.md",
+    "AWS SQS.md",
+    "AWS SQS - process.png",
+    "AWS SNS.md",
+    "AWS SNS - example of publication.png",
+    "AWS Cloud Monitoring.md",
+    "AWS Leveraging Global Infrastructure.md",
+    "Amazon S3 Transfer Acceleration - process.png",
+    "AWS WaveLength.md",
+    "Amazon S3 Transfer Acceleration.md",
+    "AWS Outposts.md",
+    "AWS Local Zones.md",
+    "AWS Global Accelerator.md",
+    "AWS Global Accelerator - comparison without accelerator.png",
+    "AWS Local Zones - VPC extension.png",
+    "short selling.md",
+    "AWS Cloud Integrations.md",
+    "call and put options - call graph.png",
+    "AWS WaveLength - setup.png",
+    "Amazon Route 53.md",
+    "Amazon CloudFront.md",
     "AWS Certified Cloud Practitioner by Stephane Maarek.md",
-    "A Man for All Markets by Edward Thorp.md",
-    "Collaborative filtering.md",
-    "Animal Spirits.md",
-    "AWS Amazon DynamoDB.md",
-    "AWS Management Console.md",
-    "AWS EC2 Instance Type - Memory Optimized.md",
-    "AWS Auto Scaling Group.md",
-    "value factor investing.md",
-    "AWS ELB & ASG.md",
-    "Cosa Nostra.md",
-    "core stocks.md",
-    "The Craft of Writing Effectively by Larry McEnerney.md",
-    "AWS IAM Roles.md",
-    "AWS ECS.md",
-    "AWS Amazon Managed Blockchain.md",
-    "Narrative Economics by Robert Shiller.md",
-    "AWS EFS.md",
-    "cost function.md",
-    "AWS Batch.md",
-    "AWS Lightsail.md",
-    "AWS CloudFormation.md",
-    "AWS Elastic Beanstalk.md",
-    "AWS CodeCommit.md",
+    "AWS Systems Manager (SSM).md",
+    "Global Application.md",
+    "AWS OpsWorks architecture.png",
+    "DNS (domain name system).md",
+    "AWS OpsWorks.md",
+    "AWS Cloud9.md",
+    "Nicotinamide mononucleotide (NMN).md",
     "img/AWS CloudFormation diagram.png",
     "img/AWS CodePipeline orchestration layer.png",
-    "infrastructure as code.md",
-    "img/AWS Lambda triggering via CloudWatch.png",
-    "img/AWS EBS Snapshot.png",
     "img"
   ]
 }

@@ -5,4 +5,4 @@ Among a few things, it can enable the user to:
 2. Transfer files
 3. Launch and manage instances running on Snow Family devices
 4. Monitor device metrics (storage capacity, active instances etc)
-5. Launch AWS services on the device: [[AWS EC2 - Elastic Compute Cloud]], [[AWS DataSync]], etc.
+5. Launch AWS services on the device: [[AWS EC2]], [[AWS DataSync]], etc.

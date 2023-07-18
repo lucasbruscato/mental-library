@@ -16,5 +16,5 @@ The elements of the snippet:
 
 1. "-i" is the parameter representing that a access key will be used
 2. "access-key-basic-instance.pem" is the file with the key
-3. "ec2-user" is the standard user from [[AWS EC2 - Elastic Compute Cloud]] servers
+3. "ec2-user" is the standard user from [[AWS EC2]] servers
 4. "@18.208.164.1060" is representing the public ipv4 address

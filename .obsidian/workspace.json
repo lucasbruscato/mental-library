@@ -8,30 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a585bdc8e88b13e6",
+            "id": "f75327920d63bdf2",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Man for All Markets by Edward Thorp.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "908555e4d55bad49",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "d61f8065accddb94",
+            "id": "f098cfc2ca32f1b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Leveraging Global Infrastructure.md",
+                "file": "AWS VPC & Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloudwatch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+                "file": "AWS VPC & Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
+                "file": "AWS VPC & Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md"
+                "file": "AWS VPC & Networking.md"
               }
             }
           }
@@ -159,38 +177,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a585bdc8e88b13e6",
+  "active": "f098cfc2ca32f1b5",
   "lastOpenFiles": [
-    "AWS Leveraging Global Infrastructure.md",
-    "Global Application.md",
     "AWS Certified Cloud Practitioner by Stephane Maarek.md",
-    "AWS Deployments and Managing Infrastructure at scale.md",
-    "AWS Elastic Beanstalk.md",
-    "AWS CloudFormation.md",
-    "AWS OpsWorks.md",
-    "Narrative Economics - Tax schema went viral.png",
-    "Narrative Economics by Robert Shiller.md",
-    "AWS AMI - the AMI process.png",
-    "AWS OpsWorks architecture.png",
-    "AWS Systems Manager (SSM).md",
-    "AWS Cloud9.md",
-    "AWS Lambda.md",
-    "AWS Fargate.md",
-    "AWS CodeStar.md",
-    "Lifespan by David Sinclair.md",
+    "AWS VPC.md",
+    "AWS VPC & Networking.md",
     "A Man for All Markets by Edward Thorp.md",
-    "Vitamin D3.md",
-    "Vitamin K2.md",
-    "Metformin.md",
-    "Nicotinamide mononucleotide (NMN).md",
-    "Resveratrol.md",
-    "AWS ECS.md",
-    "Continuous Integration & Continuous Delivery.md",
-    "The Craft of Writing Effectively by Larry McEnerney.md",
-    "AWS S3 Storage Classes.md",
-    "AWS CodePipeline.md",
+    "AWS VPC - subnets.png",
+    "IPv6.md",
+    "IPv4.md",
+    "AWS Cloud Monitoring.md",
+    "AWS Health Dashboard.md",
+    "Machine Learning.md",
+    "AWS X-Ray.md",
+    "AWS CodeGuru.md",
+    "AWS CloudTrail.md",
+    "Amazon EventBridge.md",
+    "AWS CloudWatch.md",
     "AWS Lightsail.md",
-    "AWS CodePipeline orchestration layer.png",
-    "AWS CloudFormation diagram.png"
+    "AWS Systems Manager (SSM).md",
+    "AWS Certified Cloud Practitioner by Stephane Maarek.png",
+    "AWS Certified Cloud Practitioner by Stephane Maarek-1.png",
+    "AWS EC2.md",
+    "AWS Elastic Load Balancer.md",
+    "AWS CloudFormation.md",
+    "value factor investing.md",
+    "AWS Cloud Integrations.md",
+    "Amazon MQ.md",
+    "AWS SNS.md",
+    "AWS SNS - example of publication.png",
+    "AWS Kinesis.md",
+    "AWS SQS.md",
+    "AWS SQS - process.png",
+    "call and put options - call graph.png",
+    "AWS Local Zones - VPC extension.png",
+    "AWS WaveLength - setup.png",
+    "AWS Global Accelerator - comparison without accelerator.png",
+    "Amazon S3 Transfer Acceleration - process.png"
   ]
 }
