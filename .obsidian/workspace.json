@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f098cfc2ca32f1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS VPC & Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS VPC & Networking.md",
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS VPC & Networking.md",
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS VPC & Networking.md"
+                "file": "AWS Certified Cloud Practitioner by Stephane Maarek.md"
               }
             }
           }
@@ -177,11 +165,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f098cfc2ca32f1b5",
+  "active": "908555e4d55bad49",
   "lastOpenFiles": [
-    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
     "AWS VPC.md",
     "AWS VPC & Networking.md",
+    "AWS Transit Gateway.md",
+    "AWS Transit Gateway.png",
+    "AWS Client VPN.md",
+    "AWS Direct Connect.md",
+    "AWS Direct Connect.png",
+    "AWS PrivateLink.md",
+    "AWS PrivateLink.png",
+    "AWS VPC Endpoints.md",
+    "AWS VPC Peering.md",
+    "AWS Kinesis.md",
+    "AWS VPC Flow logs.md",
+    "AWS Network ACL.md",
+    "AWS Certified Cloud Practitioner by Stephane Maarek.md",
     "A Man for All Markets by Edward Thorp.md",
     "AWS VPC - subnets.png",
     "IPv6.md",
@@ -198,21 +198,9 @@
     "AWS Systems Manager (SSM).md",
     "AWS Certified Cloud Practitioner by Stephane Maarek.png",
     "AWS Certified Cloud Practitioner by Stephane Maarek-1.png",
-    "AWS EC2.md",
-    "AWS Elastic Load Balancer.md",
-    "AWS CloudFormation.md",
-    "value factor investing.md",
-    "AWS Cloud Integrations.md",
-    "Amazon MQ.md",
-    "AWS SNS.md",
     "AWS SNS - example of publication.png",
-    "AWS Kinesis.md",
-    "AWS SQS.md",
     "AWS SQS - process.png",
     "call and put options - call graph.png",
-    "AWS Local Zones - VPC extension.png",
-    "AWS WaveLength - setup.png",
-    "AWS Global Accelerator - comparison without accelerator.png",
-    "Amazon S3 Transfer Acceleration - process.png"
+    "AWS Local Zones - VPC extension.png"
   ]
 }
